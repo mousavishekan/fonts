@@ -1,0 +1,54 @@
+@font-face {
+	font-family: irsnormal;
+	font-style: normal;
+	src:url('IranSans/Normal/normal.fanum.eot');
+	src:url('IranSans/Normal/normal.fanum.eot?#iefix') format('embedded-opentype'),
+	url('IranSans/Normal/normal.fanum.woff2') format('woff2'),
+	url('IranSans/Normal/normal.fanum.woff') format('woff'),
+	url('IranSans/Normal/normal.fanum.ttf') format('truetype');
+}
+@font-face {
+	font-family: irslight;
+	font-style: normal;
+	src:url('IranSans/Light/light.fanumh.eot');
+	src:url('IranSans/Light/light.fanum.eot?#iefix') format('embedded-opentype'),
+	url('IranSans/Light/light.fanum.woff2') format('woff2'),
+	url('IranSans/Light/light.fanum.woff') format('woff'),
+	url('IranSans/Light/light.fanum.ttf') format('truetype');
+}
+@font-face {
+	font-family: irsulight;
+	font-style: normal;
+	src:url('IranSans/UltraLight/ultralight.fanum.eot');
+	src:url('IranSans/UltraLight/ultralight.fanum.eot?#iefix') format('embedded-opentype'),
+	url('IranSans/UltraLight/ultralight.fanum.woff2') format('woff2'),
+	url('IranSans/UltraLight/ultralight.fanum.woff') format('woff'),
+	url('IranSans/UltraLight/ultralight.fanum.ttf') format('truetype');
+}
+@font-face {
+	font-family: irsmedium;
+	font-style: normal;
+	src:url('IranSans/Medium/medium.fanum.eot');
+	src:url('IranSans/Medium/medium.fanum.eot?#iefix') format('embedded-opentype'),
+	url('IranSans/Medium/medium.fanum.woff2') format('woff2'),
+	url('IranSans/Medium/medium.fanum.woff') format('woff'),
+	url('IranSans/Medium/medium.fanum.ttf') format('truetype');
+}
+@font-face {
+	font-family: irsblack;
+	font-style: normal;
+	src:url('IranSans/Black/black.fanum.eot');
+	src:url('IranSans/Black/black.fanum.eot?#iefix') format('embedded-opentype'),
+	url('IranSans/Black/black.fanum.woff2') format('woff2'),
+	url('IranSans/Black/black.fanum.woff') format('woff'),
+	url('IranSans/Black/black.fanum.ttf') format('truetype');
+}
+@font-face {
+	font-family: irsbold;
+	font-style: normal;
+	src:url('IranSans/Bold/bold.fanum.eot');
+	src:url('IranSans/Bold/bold.fanum.eot?#iefix') format('embedded-opentype'),
+	url('IranSans/Bold/bold.fanum.woff2') format('woff2'),
+	url('IranSans/Bold/bold.fanum.woff') format('woff'),
+	url('IranSans/Bold/bold.fanum.ttf') format('truetype');
+}
